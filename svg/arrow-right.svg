@@ -1,11 +1,8 @@
 <svg
+   width="72"
+   height="48"
+   viewBox="480 0 320 1024"
    xmlns="http://www.w3.org/2000/svg"
-   width="1000"
-   height="800"
-   viewBox="0 0 1280 1024"
 >
-   <path
-      fill="var(--color-fg-default)"
-      d="M256 120.768L306.432 64 768 512 306.432 960 256 903.232 659.072 512z"
-   />
+   <path d="M384 120.768L434.432 64 896 512 434.432 960 384 903.232 787.072 512z" />
 </svg>
