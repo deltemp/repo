@@ -2,6 +2,12 @@
    xmlns="http://www.w3.org/2000/svg"
    viewBox="0 0 175.216 175.552"
 >
+   <style>
+      g {
+         overflow: hidden;
+         z-index: 9999;
+      }
+   </style>
    <defs>
       <linearGradient
          id="prefix__b"
