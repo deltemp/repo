@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55"
+   height="40"
+   viewBox="0 0 14.5519 10.5832"
+   version="1.1"
+   id="svg827"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="headings.svg"
+   inkscape:export-filename="/home/deltemp/Imagens/GitHub/closing1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="359.5"
+     inkscape:cy="-27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.38179px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.209545"
+       x="3.0715783"
+       y="-47.059746"
+       id="text6324"
+       transform="scale(0.99476198,1.0052656)"><tspan
+         sodipodi:role="line"
+         id="tspan6322"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';stroke-width:0.209545"
+         x="3.0715783"
+         y="-47.059746"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#958dc3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan34556">NelsonGuerreiro</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#f484c3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan64170">::</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#81df8a;fill-opacity:1;stroke-width:0.209545"
+           id="tspan73172">userGreeting</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#359ff8;fill-opacity:1;stroke-width:0.209545"
+           id="tspan79156">(</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#958dc3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan92628">string</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.38179px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.209545"
+       x="5.6182833"
+       y="-58.874718"
+       id="text6324-8"
+       transform="scale(0.99476198,1.0052656)"><tspan
+         sodipodi:role="line"
+         id="tspan6322-1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';stroke-width:0.209545"
+         x="5.6182833"
+         y="-58.874718"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#958dc3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan34556-0">NelsonGuerreiro</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#f484c3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan64170-3">::</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#81df8a;fill-opacity:1;stroke-width:0.209545"
+           id="tspan73172-0">getFullStacks</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#359ff8;fill-opacity:1;stroke-width:0.209545"
+           id="tspan79156-4">(</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#958dc3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan92628-4">array</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.38179px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.209545"
+       x="1.3326081"
+       y="38.310509"
+       id="text6324-4"
+       transform="scale(0.99476198,1.0052656)"><tspan
+         sodipodi:role="line"
+         id="tspan6322-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';stroke-width:0.209545"
+         x="1.3326081"
+         y="38.310509"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#958dc3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan34556-7">NelsonGuerreiro</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#f484c3;fill-opacity:1;stroke-width:0.209545"
+           id="tspan64170-6">::</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#81df8a;fill-opacity:1;stroke-width:0.209545"
+           id="tspan73172-3">useSocial</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#359ff8;fill-opacity:1;stroke-width:0.209545"
+           id="tspan79156-1">(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#f484c3;fill-opacity:1;stroke-width:0.209545"
+   id="tspan184658">()</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#e7dd86;fill-opacity:1;stroke-width:0.209545"
+   id="tspan173766">=</tspan>&gt; </tspan><tspan
+           id="tspan170290"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Italic';fill:#e7dd86;fill-opacity:1;stroke-width:0.209545">{</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.677109"
+       y="64.598534"
+       id="text129686"><tspan
+         sodipodi:role="line"
+         id="tspan129684"
+         style="stroke-width:0.264583"
+         x="94.677109"
+         y="64.598534" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.54282px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21357"
+       x="37.153923"
+       y="-20.210604"
+       id="text138372"
+       transform="scale(0.96749048,1.0336019)"><tspan
+         sodipodi:role="line"
+         id="tspan138370"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#359ff8;fill-opacity:1;stroke-width:0.21357"
+         x="37.153923"
+         y="-20.210604">);</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.36247px;line-height:1.25;font-family:sans-serif;fill:#e7dd86;fill-opacity:1;stroke:none;stroke-width:0.209062"
+       x="0.45823044"
+       y="7.6397386"
+       id="text214571"
+       transform="scale(0.97227298,1.0285177)"><tspan
+         sodipodi:role="line"
+         id="tspan214569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#e7dd86;fill-opacity:1;stroke-width:0.209063"
+         x="0.45823044"
+         y="7.6397386">}<tspan
+   style="fill:#359ff8;fill-opacity:1;stroke-width:0.209063"
+   id="tspan357340">);</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="138.13864"
+       y="77.614777"
+       id="text237687"><tspan
+         sodipodi:role="line"
+         id="tspan237685"
+         style="stroke-width:0.264583"
+         x="138.13864"
+         y="77.614777" /></text>
+  </g>
+</svg>
