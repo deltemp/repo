@@ -4,7 +4,7 @@
    width="470"
    version="1.1"
    id="svg123001"
-   sodipodi:docname="deploying_with1.svg"
+   sodipodi:docname="deploying_with.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -50,5 +50,5 @@
        x="57.324219"
        y="35.005859"
        id="tspan129564"
-       style="font-size:40px;fill:#555555;fill-opacity:1">Deploying with...</tspan></text>
+       style="font-size:40px;fill:#d2d7e0;fill-opacity:1">Deploying with...</tspan></text>
 </svg>
