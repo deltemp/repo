@@ -20,7 +20,7 @@
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
      fit-margin-top="0"
@@ -45,9 +45,18 @@
      transform="translate(-82.552411,-107.66287)">
     <title
        id="title824">Lens</title>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.998863;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:11.8;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect8532"
+       width="48"
+       height="48"
+       x="82.552414"
+       y="107.66287"
+       rx="0.52271461"
+       ry="0.34100541" />
     <path
-       d="M 101.06242,114.66286 H 89.552475 v 8.50998 l 7.499943,9.43001 z m -11.509945,10.90998 v 14.25003 H 100.88244 Z M 121.6424,114.66286 h -19.04995 l -2.29999,10.27004 z m -1.79996,34.00002 h 3.70998 v -16.8 l -8.64,-4.21002 z m -11.58002,-25.90003 15.29,7.44 v -14.79996 z m -18.709945,18.55006 v 7.34997 h 13.759975 l 5.75002,-7.34997 z m 15.659945,7.34997 h 13.09002 l -3.02,-12.86997 z M 82.552411,107.66287 h 47.999999 v 48 H 82.552411 Z"
+       d="M 101.06242,114.66286 H 89.552483 v 8.50998 l 7.49994,9.43001 z m -11.509937,10.90998 v 14.25003 H 100.88244 Z M 121.6424,114.66286 h -19.04995 l -2.29999,10.27004 z m -1.79996,34.00002 h 3.70998 v -16.8 l -8.64,-4.21002 z m -11.58002,-25.90003 15.29,7.44 v -14.79996 z m -18.709937,18.55006 v 7.34997 h 13.759967 l 5.75002,-7.34997 z m 15.659937,7.34997 h 13.09002 l -3.02,-12.86997 z M 82.552413,107.66287 h 47.999997 v 48 H 82.552413 Z"
        id="path826"
-       style="stroke-width:2;fill:#3d90ce;fill-opacity:1" />
+       style="fill:#3d90ce;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1" />
   </g>
 </svg>
